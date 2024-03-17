@@ -8,7 +8,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hej 1 modyfikacja");
             Console.WriteLine("Hej 2 modyfikacja");
-            Console.WriteLine("Hej 3 modyfikacja");
+            
         }
     }
 }
