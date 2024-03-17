@@ -7,6 +7,7 @@ namespace ConsoleApplication1
         public static void Main(string[] args)
         {
             Console.WriteLine("Hej 1 modyfikacja");
+            Console.WriteLine("Hej 2 modyfikacja");
         }
     }
 }
